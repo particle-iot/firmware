@@ -1,3 +1,13 @@
+## 2.2.0
+
+### BUGFIXES
+
+- Do not reset the DTLS session on socket errors [#2335](https://github.com/particle-iot/device-os/pull/2335)
+
+### INTERNAL
+
+- On-device tests to validate [#2335](https://github.com/particle-iot/device-os/pull/2335) [#2337](https://github.com/particle-iot/device-os/pull/2337)
+
 ## 2.2.0-rc.1
 
 ### FEATURES
