@@ -92,7 +92,7 @@
 | 300 | 1200 | 1.2.0-alpha.1 |       Photon, P1, Electron, Boron |
 | 300 | 1201 | 1.2.0-beta.1  |       Core, Photon, P1, Electron, Xenon, Argon, Boron |
 | 302 | 1202 | 1.2.0-rc.1    |       Core, Photon, P1, Electron, Xenon, Argon, Boron, X SoM, A SoM, B SoM |
-| 310 | 1210 | 1.2.1-rc.1    |       Core, Photon, P1, Electron, Xenon, Argon, Boron, X SoM, A SoM, B SoM |
+| 310 | 1210 | 1.2.1-rc.1    |       Core, Photon, P1, Electron, Xenon, Argon, Boron, X SoM, A SoM, B SoM |w
 | 311 | 1211 | 1.2.1-rc.2    |       Core, Photon, P1, Electron, Xenon, Argon, Boron, X SoM, A SoM, B SoM |
 | 311 | 1212 | 1.2.1-rc.3    |       Core, Photon, P1, Electron, Xenon, Argon, Boron, X SoM, A SoM, B SoM |
 | 311 | 1213 | 1.2.1         |       Core, Photon, P1, Electron, Xenon, Argon, Boron, X SoM, A SoM, B SoM |
@@ -136,6 +136,7 @@
 | 1005 | 2100 | 2.1.0-rc.1    |      Photon, P1, Electron, Argon, Boron, B SoM, B5 SoM, Tracker |
 | 1005 | 2101 | 2.1.0         |      Photon, P1, Electron, Argon, Boron, B SoM, B5 SoM, Tracker |
 | 1006 | 2200 | 2.2.0-rc.1    |      Photon, P1, Electron, Argon, Boron, B SoM, B5 SoM, Tracker |
+| 1006 | 2201 | 2.2.0         |      Photon, P1, Electron, Argon, Boron, B SoM, B5 SoM, Tracker |
 
 [1] For 0.8.0-rc.1, The v101 bootloader was also released in the Github releases as v200. Thus the next released bootloader in the 0.8.x line should be v201. As of 4/5/2018: 22 device had v200 bootloaders.
 
